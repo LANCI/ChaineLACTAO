@@ -1,70 +1,0 @@
-10
-
-dir
-5
-http://subversion.assembla.com/svn/lactao/ChaineLACTAO/src/lactao
-http://subversion.assembla.com/svn/lactao
-
-
-
-2010-03-22T22:49:19.376077Z
-4
-nicolaspayette
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8bc3dc00-de8a-404c-af68-7ea43a02a8f8
-
-batch
-dir
-
-stoplist
-dir
-
-corpuses
-dir
-
-graphexport
-dir
-
-tokeniseur
-dir
-
-concordancier
-dir
-
-eureka
-dir
-
-filtreur
-dir
-
-stemmer
-dir
-
-dbio
-dir
-
-evaluateur
-dir
-
-util
-dir
-
-mallet
-dir
-
-segmenteur
-dir
-

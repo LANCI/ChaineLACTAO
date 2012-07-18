@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/bsh.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/common-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/crimson.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/dex.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/distributions-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/googleapi.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/grmm-deps.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/javacc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/jgrapht-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/jwnl-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/jython.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/mtj-0.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/openjgraph.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/rngpack.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/secondstring.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/secondstring-serializable.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/trove-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/weka.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/xercesSamples.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Nicolas/workspace/mallet/lib/xmlParserAPIs.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/mallet"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-3d-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-3d-demos-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-jai-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jung2/bin/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

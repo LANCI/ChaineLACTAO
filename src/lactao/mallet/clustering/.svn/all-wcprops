@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lactao/!svn/ver/4/ChaineLACTAO/src/lactao/mallet/clustering
+END
+MalletClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lactao/!svn/ver/4/ChaineLACTAO/src/lactao/mallet/clustering/MalletClusterer.java
+END
+SilhouetteEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lactao/!svn/ver/2/ChaineLACTAO/src/lactao/mallet/clustering/SilhouetteEvaluator.java
+END
+SimplifiedSilhouetteEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/lactao/!svn/ver/2/ChaineLACTAO/src/lactao/mallet/clustering/SimplifiedSilhouetteEvaluator.java
+END

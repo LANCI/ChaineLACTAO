@@ -1,21 +1,9 @@
 package lactao.batch;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.sql.Date;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.util.ArrayList;
-
-import cc.mallet.cluster.Clustering;
-import cc.mallet.cluster.clustering_scorer.ClusteringScorer;
-import cc.mallet.fst.confidence.NBestViterbiConfidenceEstimator;
-import cc.mallet.types.InstanceList;
-import cc.mallet.types.Metric;
-import cc.mallet.types.Minkowski;
-import cc.mallet.types.NormalizedDotProductMetric;
 
 import lactao.corpuses.Corpus;
 import lactao.dbio.AccessConnection;
@@ -28,6 +16,11 @@ import lactao.mallet.clustering.SimplifiedSilhouetteEvaluator;
 import lactao.stemmer.FrenchStemmer;
 import lactao.stemmer.Stemmer;
 import lactao.tokeniseur.Tokenizeur;
+import cc.mallet.cluster.Clustering;
+import cc.mallet.cluster.clustering_scorer.ClusteringScorer;
+import cc.mallet.types.InstanceList;
+import cc.mallet.types.Metric;
+import cc.mallet.types.NormalizedDotProductMetric;
 
 public class JF {
 

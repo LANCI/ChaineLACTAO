@@ -12,7 +12,6 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import lactao.concordancier.Concordancier;
 import lactao.concordancier.SentenceConcordancier;
 import lactao.dbio.AccessConnection;
 import lactao.filtreur.Filtreur;

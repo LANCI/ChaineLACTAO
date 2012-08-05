@@ -34,7 +34,6 @@ package lactao.stemmer;
 
  */
 
-import java.io.*;
 
 /**
  * Stemmer, implementing the Porter Stemming Algorithm

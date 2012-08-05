@@ -1,13 +1,7 @@
 package lactao.mallet.clustering;
 
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.Iterator;
-
 import cc.mallet.cluster.Clustering;
 import cc.mallet.cluster.clustering_scorer.ClusteringScorer;
-import cc.mallet.types.Instance;
 import cc.mallet.types.InstanceList;
 import cc.mallet.types.Metric;
 import cc.mallet.types.SparseVector;

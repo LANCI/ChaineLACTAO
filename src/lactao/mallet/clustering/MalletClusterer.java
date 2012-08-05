@@ -13,6 +13,7 @@ import java.util.Iterator;
 import java.util.Locale;
 import java.util.Map;
 
+import lactao.dbio.AccessConnection;
 import cc.mallet.cluster.Clustering;
 import cc.mallet.cluster.KMeans;
 import cc.mallet.cluster.clustering_scorer.ClusteringScorer;
@@ -25,8 +26,6 @@ import cc.mallet.types.Metric;
 import cc.mallet.types.NormalizedDotProductMetric;
 import cc.mallet.types.SparseVector;
 import cc.mallet.util.VectorStats;
-
-import lactao.dbio.AccessConnection;
 
 public class MalletClusterer {
 

@@ -10,7 +10,6 @@ import java.util.HashSet;
 import java.util.Locale;
 
 import lactao.dbio.AccessConnection;
-import lactao.stemmer.FrenchStemmer;
 import lactao.stemmer.Stemmer;
 
 public class StopList {
